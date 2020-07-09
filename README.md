@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Homepage
+
+[Click here to check the website](https://souraexx.github.io/Tasks-app-react)
 
 ## Available Scripts
 
